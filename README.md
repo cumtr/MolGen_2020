@@ -4,7 +4,11 @@ In this repository, you will find all the informations and the data you need for
 
 ### repository's Architecture 
 
+MolGen2020_Manual     Manual with all infromations about the practicals. 
+1_Frogs               This directory contain all the data for the first project.
+2_Cichlids            This directory contain all the data for the second project.
+3_Eels                This directory contain all the data for the Third project.
 
-### Imprtant informations
+### Important informations
 
-To be abe to use all packages, please use R version 3.6.x. Do not use R version 4.x.x
+To be abe to install and use all packages required, please use R version 3.6.x. Do not use R version 4.x.x .
