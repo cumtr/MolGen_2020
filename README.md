@@ -11,7 +11,7 @@ MolGen2020_Manual			- Manual with all infromations about the practicals.
 
 2_Cichlids						- This directory contain all the data for the second project.
 
-3_Eels								- This directory contain all the data for the Third project.
+3_Eels								- This directory contain all the data for the third project.
 
 
 ### Important informations
