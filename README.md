@@ -17,3 +17,28 @@ MolGen2020_Manual			- Manual with all infromations about the practicals.
 ### Important informations
 
 To be abe to install and use all packages required, please use R version 3.6.x. Do not use R version 4.x.x .
+
+
+### Packages installation
+
+To install all packages required, please run these commands
+
+`install.packages(ape)`
+
+`install.packages(phangorn)`
+
+`install.packages(seqinr)`
+
+`install.packages(adegenet)`
+
+`install.packages(pegas)`
+
+`install.packages(hierfstat)`
+
+`install.packages(raster)`
+
+`if (!requireNamespace("BiocManager", quietly = TRUE))`
+
+`install.packages("BiocManager")`
+
+`BiocManager::install("LEA")`
