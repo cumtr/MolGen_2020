@@ -18,6 +18,9 @@ MolGen2020_Manual			- Manual with all infromations about the practicals.
 
 To be abe to install and use all packages required, please use R version 3.6.x. Do not use R version 4.x.x .
 
+Zoom link for the practical :  https://unil.zoom.us/j/91756525282
+
+
 
 ### Packages installation
 
